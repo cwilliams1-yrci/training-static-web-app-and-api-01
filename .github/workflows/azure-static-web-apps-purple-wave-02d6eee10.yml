@@ -44,3 +44,7 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_PURPLE_WAVE_02D6EEE10 }}
           action: "close"
+
+
+
+
